@@ -1,5 +1,4 @@
 # База HWID пользователей
 # Формат: HWID=LOGIN=DAYS
-JSBM5XXP=Admin=LIFETIME
 O6RS3SDT=superman=LIFETIME
 32132131=1337=600
