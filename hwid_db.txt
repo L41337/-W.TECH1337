@@ -1,4 +1,3 @@
 # База HWID пользователей
 # Формат: HWID=LOGIN=DAYS
 JSBM5XXP=Admin=300
-O6RS3SDT=Admin2=300
